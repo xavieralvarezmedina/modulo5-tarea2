@@ -1,0 +1,7 @@
+La interfaz tendrá una sección principal con un formulario para crear una nueva causa comunitaria, donde se pueda escribir el título, la descripción y seleccionar la fecha.
+
+Abajo habrá una vista de causas disponibles organizada como una lista limpia para que cualquier ciudadano pueda leer los reportes activos.
+
+Cada causa de la lista tendrá integrado un botón para apoyar la causa y un contador de apoyos al lado que muestre de forma visual cuántas personas se han sumado.
+
+El diseño será claro y sencillo, enfocado en que sea fácil de usar en el territorio, y cuidará la privacidad al no mostrar ninguna información privada de los usuarios.

@@ -1,0 +1,5 @@
+El login sirve para identificar que un usuario es realmente un veedor autorizado antes de dejarlo entrar al sistema.
+
+Algunas rutas deben estar protegidas porque manejan acciones internas, como cambiar el estado de un reporte o ver quejas comunitarias que no son públicas.Si estas rutas estuvieran libres, cualquiera podría borrar información o alterar el sistema.
+
+Por seguridad de todos, nunca se debe exponer información privada como contraseñas, cédulas, direcciones de los denunciantes o códigos internos de la base de datos.

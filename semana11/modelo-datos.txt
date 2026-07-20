@@ -1,0 +1,32 @@
+Entidad: Peticion
+
+Campos principales:
+
+id
+
+titulo
+
+descripcion
+
+categoria
+
+fecha_creacion
+
+estado
+
+Propósito:
+Guardar los derechos de petición o reportes de problemas que los ciudadanos registran en la plataforma.
+
+Entidad: Seguimiento
+
+Campos principales:
+
+id
+
+peticion_id
+
+comentario
+
+fecha_cambio
+
+veedor_responsable
